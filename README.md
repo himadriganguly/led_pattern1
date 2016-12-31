@@ -8,7 +8,7 @@ You can download the project from Github - [**https://github.com/himadriganguly/
 
 ## Requirements
 
-1. 5 LED iof any colour
+1. 5 LED of any colour
 2. Breadboard
 3. Arduino Uno
 4. Fritzing [**http://fritzing.org/**] (http://fritzing.org/)
